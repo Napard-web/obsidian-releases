@@ -16121,6 +16121,13 @@
     "repo": "takitsuba/obsidian-auto-bullet"
   },
   {
+    "id": "liminal",
+    "name": "Liminal",
+    "author": "Arnaud Delpech",
+    "description": "AI-powered note assistant — generate structured notes, suggest tags & links, summarize YouTube videos. Bring Your Own Key (Anthropic Claude).",
+    "repo": "Napard-web/liminal-plugin"
+  },
+  {
     "id": "limitless-lifelogs",
     "name": "Limitless Lifelogs",
     "author": "Maclean (Silk Ribbon)",
